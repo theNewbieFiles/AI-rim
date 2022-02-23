@@ -1,0 +1,31 @@
+{
+  "World":{
+    "length":1000,
+    "width":1000
+  },
+
+
+
+
+  "Locations":{
+    "TestRoom1":{
+      "id":"TestRoom1",
+      "position":{
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "containers":[
+        {
+          "id":"chest1",
+          "inventory":[
+
+          ]
+
+        }
+      ]
+
+    }
+  }
+}
+

@@ -1,0 +1,10 @@
+{
+  "Items":{
+    "bread":{
+      "Food":{
+        "type":"bread",
+        "calories": 100
+      }
+    }
+  }
+}
