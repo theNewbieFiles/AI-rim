@@ -1,2 +1,2 @@
 # AI-rim
-My attempt at using AI and procedural generation to create a Skyrim like clone. 
+This is a large procedurally generated open world RPG.
